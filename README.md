@@ -68,15 +68,15 @@ These findings influenced the inclusion of features such as ratings, verified pr
 
 ## 📁 Project Files
 
-### Research Paper
+### 🔗 Interactive Prototype
 
-The complete research paper is available here:
+**[View the SwapIt Prototype on Figma](https://www.figma.com/proto/Covb5TFtFdm8oIyNhoOguB/Untitled?node-id=1-3&t=EytKXGIbVbIjZhs1-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)**
+
+### 📄 Research Paper
 
 **[SwapIt Research Paper](./SwapIt-Research-Paper.pdf)**
 
-### Poster
-
-The project poster is available in the `Poster` folder:
+### 🖼️ Poster
 
 **[SwapIt Poster](./Poster/SwapIt-Poster.pdf)**
 
